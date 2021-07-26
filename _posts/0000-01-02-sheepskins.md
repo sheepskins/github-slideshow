@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-pooooooooooooooooooooo
+The cake is a lie
 Use the left arrow to go back!
